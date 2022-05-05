@@ -44,7 +44,7 @@ export default function Home() {
               <p className={Subheading}>Business Strategist</p>
               <br />
               <p className={body}>
-                After working with ceveral organizations and millions of
+                After working with several organizations and millions of
                 customers over the past 20 years, I wholeheartedly believe that
                 empathy and the true consideration of people is the foundation
                 of all good organizations. We are stronger together!
